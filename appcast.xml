@@ -4,7 +4,7 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Version 1.0.8</title>
-            <description>Minor updates and improvements.</description>
+            <description>โปรดอย่าลืมอัปเดต อาจเกิดข้อผิดพลาดขณะใช้บริการ</description>
             <pubDate>Fri, 06 Feb 2024 14:38:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.veralink.thaigers" sparkle:version="1.0.8" sparkle:os="android" />
         </item>
